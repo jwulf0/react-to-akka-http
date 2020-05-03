@@ -1,0 +1,1 @@
+declare const COMPILE_TIME_VALUE_IS_PROD: boolean;
