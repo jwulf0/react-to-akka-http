@@ -41,7 +41,7 @@ So again: Whether and/or why you can use this, you’ll have to find out for you
 
 (Note: This assumes that your development machine set up both for working on scala projects as well as node projects. See notes at the end of this section below if that’s not the case for you.)
 
-Clone the repository. In the `server` directory run `sbt run`. In the `client` directory run `yarn start-dev` (or `npm start-dev` of course). Open the application by browsing to `localhost:8080`. (NOT `localhost:8080` where the application server is running - this won't serve your client.)
+Clone the repository. In the `server` directory run `sbt run`. In the `client` directory run `yarn start-dev` (or `npm start-dev` of course). Open the application by browsing to `localhost:8080`. (NOT `localhost:8000` where the application server is running - this won't serve your client.)
 
 
 ### A build
