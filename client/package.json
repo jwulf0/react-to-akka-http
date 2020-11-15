@@ -72,5 +72,8 @@
     "webpack-dev-server": "^3.11.0",
     "webpack-merge": "^5.4.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "resolutions": {
+    "node-forge": "^0.10.0"
+  }
 }
